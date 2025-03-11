@@ -1,5 +1,5 @@
 # Job-Portal
-The Job Portal project aims to create a robust and user-friendly platform for job seekers and recruiters, utilizing modern web technologies. This application is currently under development, with several core functionalities already implemented, and more features are being actively developed.
+The Job Portal project aims to create a robust and user-friendly platform for job seekers and recruiters, utilizing modern web technologies.
 
 ## Technologies Used:
 
@@ -70,4 +70,4 @@ The Job Portal project aims to create a robust and user-friendly platform for jo
 
 # Conclusion:
 The Job Portal project, built with a modern stack of Java 21, Spring Boot 3, and supporting technologies, aims to provide a comprehensive and efficient solution for job seekers and recruiters.
-With essential functionalities already in place and more under active development, the portal is set to become a powerful tool for job matching and recruitment.
+
